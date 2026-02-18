@@ -1,0 +1,8 @@
+{
+  "name": "龜山曹家族譜 (Guishan Tsao Family) Online",
+  "description": "一個現代化的家族協作平台。共同編輯族譜、利用 AI 生成傳記、保存珍貴照片，讓家族的故事代代相傳。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
